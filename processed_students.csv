@@ -1,0 +1,23 @@
+StudentID,Name,Department,Mathematics,Physics,Chemistry,Computer_Science,English,Attendance,Total_Marks,Average_Marks,Grade,Result_Status,Failed_Subjects,Attendance_Status
+STU001,Aarav Sharma,Computer Science,88,92,85,95,90,92,450.0,90.0,A+,Pass,None,Regular
+STU002,Diya Patel,AI & ML,95,94,91,98,92,96,470.0,94.0,A+,Pass,None,Regular
+STU003,Rohan Verma,Data Science,76,70,74,82,78,85,380.0,76.0,B,Pass,None,Regular
+STU004,Ananya Iyer,Computer Science,92,89,94,96,88,94,459.0,91.8,A+,Pass,None,Regular
+STU005,Kabir Singh,Information Tech,58,62,55,68,60,78,303.0,60.6,C,Pass,None,Regular
+STU006,Ishita Gupta,AI & ML,84,81,86,90,85,90,426.0,85.2,A,Pass,None,Regular
+STU007,Aditya Roy,Computer Science,42,48,39,52,50,72,231.0,46.2,F,Fail,Chemistry,Shortage
+STU008,Sneha Nair,Data Science,91,88,89,93,90,95,451.0,90.2,A+,Pass,None,Regular
+STU009,Vikram Malhotra,Information Tech,35,42,38,45,40,65,200.0,40.0,F,Fail,"Mathematics, Chemistry",Shortage
+STU010,Pooja Joshi,AI & ML,78,82,80,85,84,88,409.0,81.8,A,Pass,None,Regular
+STU011,Karan Mehra,Computer Science,65,68,70,72,66,82,341.0,68.2,C,Pass,None,Regular
+STU012,Rhea Sen,Data Science,89,90,87,92,89,91,447.0,89.4,A,Pass,None,Regular
+STU013,Arjun Das,Information Tech,52,55,58,60,54,76,279.0,55.8,D,Pass,None,Regular
+STU014,Tanvi Kulkarni,AI & ML,96,95,93,99,94,98,477.0,95.4,A+,Pass,None,Regular
+STU015,Nikhil Reddy,Computer Science,72,75,71,78,74,84,370.0,74.0,B,Pass,None,Regular
+STU016,Meera Nambiar,Data Science,68,64,72,70,69,80,343.0,68.6,C,Pass,None,Regular
+STU017,Siddharth Chawla,Information Tech,45,50,48,55,52,74,250.0,50.0,D,Pass,None,Shortage
+STU018,Kavya Menon,AI & ML,82,85,84,88,86,89,425.0,85.0,A,Pass,None,Regular
+STU019,Manish Pandey,Computer Science,38,36,42,44,40,68,200.0,40.0,F,Fail,"Mathematics, Physics",Shortage
+STU020,Priyanka Bose,Data Science,90,92,88,94,91,93,455.0,91.0,A+,Pass,None,Regular
+STU021,Rahul Jain,Information Tech,74,72,76,80,75,86,377.0,75.4,B,Pass,None,Regular
+STU022,Simran Kaur,AI & ML,87,85,89,91,88,92,440.0,88.0,A,Pass,None,Regular

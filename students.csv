@@ -1,0 +1,23 @@
+StudentID,Name,Department,Mathematics,Physics,Chemistry,Computer_Science,English,Attendance
+STU001,Aarav Sharma,Computer Science,88,92,85,95,90,92
+STU002,Diya Patel,AI & ML,95,94,91,98,92,96
+STU003,Rohan Verma,Data Science,76,70,74,82,78,85
+STU004,Ananya Iyer,Computer Science,92,89,94,96,88,94
+STU005,Kabir Singh,Information Tech,58,62,55,68,60,78
+STU006,Ishita Gupta,AI & ML,84,81,86,90,85,90
+STU007,Aditya Roy,Computer Science,42,48,39,52,50,72
+STU008,Sneha Nair,Data Science,91,88,89,93,90,95
+STU009,Vikram Malhotra,Information Tech,35,42,38,45,40,65
+STU010,Pooja Joshi,AI & ML,78,82,80,85,84,88
+STU011,Karan Mehra,Computer Science,65,68,70,72,66,82
+STU012,Rhea Sen,Data Science,89,90,87,92,89,91
+STU013,Arjun Das,Information Tech,52,55,58,60,54,76
+STU014,Tanvi Kulkarni,AI & ML,96,95,93,99,94,98
+STU015,Nikhil Reddy,Computer Science,72,75,71,78,74,84
+STU016,Meera Nambiar,Data Science,68,64,72,70,69,80
+STU017,Siddharth Chawla,Information Tech,45,50,48,55,52,74
+STU018,Kavya Menon,AI & ML,82,85,84,88,86,89
+STU019,Manish Pandey,Computer Science,38,36,42,44,40,68
+STU020,Priyanka Bose,Data Science,90,92,88,94,91,93
+STU021,Rahul Jain,Information Tech,74,72,76,80,75,86
+STU022,Simran Kaur,AI & ML,87,85,89,91,88,92
